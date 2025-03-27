@@ -1,1 +1,1 @@
-# repo-javascript-arrays
+# This repository contains some javascript arrays.
